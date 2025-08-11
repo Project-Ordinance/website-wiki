@@ -1,0 +1,72 @@
+site_name: Project Ordinance Wiki
+site_description: Official knowledge base for Project Ordinance
+site_author: Project Ordinance
+site_url: https://project-ordinance.com  # Update this if deploying
+copyright: "© Project Ordinance"
+
+theme:
+  name: material
+  logo: assets/logo_white.ico
+  favicon: assets/logo_white.ico
+  palette:
+    - scheme: default
+      primary: deep-purple
+      accent: orange
+    - scheme: slate
+      primary: deep-purple
+      accent: orange
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - toc.integrate
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - search.highlight
+    - search.suggest
+    - search.share
+
+extra_css:
+  - styles/extra.css
+extra_javascript:
+  - javascripts/extra.js
+
+plugins:
+  - search
+  - macros
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.magiclink
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Overview:
+    - Home: index.md
+    - Goals & Vision: about/vision.md
+    - FAQ: about/faq.md
+    - Changelog: changelog.md
+  - Team:
+    - Current Team: team/index.md
+  - Characters:
+    - Registry: characters/index.md
+  - Systems:
+    - Systems Overview: systems/index.md
+  - Maps:
+    - Map Guide: maps/index.md
