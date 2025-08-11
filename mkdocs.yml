@@ -59,3 +59,14 @@ markdown_extensions:
 nav:
   - Overview:
     - Home: index.md
+    - Goals & Vision: about/vision.md
+    - FAQ: about/faq.md
+    - Changelog: changelog.md
+  - Team:
+    - Current Team: team/index.md
+  - Characters:
+    - Registry: characters/index.md
+  - Systems:
+    - Systems Overview: systems/index.md
+  - Maps:
+    - Map Guide: maps/index.md
