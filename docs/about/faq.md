@@ -1,4 +1,5 @@
-<img width="1440" height="288" alt="image" src="https://github.com/user-attachments/assets/35d79bd9-cc6b-4f5d-bcab-993f1e8ce1e3" />
+!!! warning "Work in Progress"
+    In article is an active work in progress. If you want to contribute, contact CreekMando or Riggs on Discord to request changes. 
 
 # FAQ
 
