@@ -68,5 +68,6 @@ nav:
     - Registry: characters/index.md
   - Systems:
     - Systems Overview: systems/index.md
+    - Anti mass spectrometer: systems/ams.md
   - Maps:
     - Map Guide: maps/index.md
