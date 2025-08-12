@@ -75,8 +75,8 @@ nav:
   - Projects:
     - Overview: projects/index.md
     - The Main Server: projects/main-server.md
-    - Ordinance Escape: projects/escape.md
-    - Ordinance Deathmatch: projects/deathmatch.md
+    - Escape: projects/escape.md
+    - Deathmatch: projects/deathmatch.md
   - Characters:
     - Registry: characters/index.md
   - Systems:
