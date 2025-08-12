@@ -27,10 +27,6 @@ theme:
     - search.suggest
     - search.share
 
-extra:
-  analytics:
-    provider: plausible
-    property: wiki.project-ordinance.com
 extra_css:
   - styles/extra.css
 extra_javascript:
@@ -39,10 +35,6 @@ extra_javascript:
 plugins:
   - search
   - macros
-  - redirects
-  - minify
-  - git-revision-date-localized:
-      fallback_to_build_date: true
 
 markdown_extensions:
   - admonition
