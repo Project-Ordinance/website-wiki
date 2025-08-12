@@ -3,11 +3,8 @@
 
 # FAQ
 
-!!! question "What is Project Ordinance?" 
-    TBD.
-
 ## How can I contribute?
-TBD.
+Contact CreekMando (creekmando on Discord), Riggs (riggs9162 on Discord) to submit changes to any forum article of your choosing. Or, suggest the change to an article under server-suggestions channel in the Project Ordinance discord.
 
 ## Where can I report issues or suggestions?
-TBD.
+Use the bug-reports and server-suggestions channels in the Discord to report issues and give suggestions. If there is content that violates the rules of Ordinance on the wiki, contact Riggs (riggs9162 on Discord) to get potential violations reviewed.
