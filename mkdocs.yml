@@ -72,6 +72,11 @@ nav:
     - Changelog: changelog.md
   - Team:
     - Current Team: team/index.md
+  - Projects:
+    - Overview: projects/index.md
+    - The Main Server: projects/main-server.md
+    - Ordinance Escape: projects/ordinance-escape.md
+    - Deathmatch: projects/deathmatch.md
   - Characters:
     - Registry: characters/index.md
   - Systems:
