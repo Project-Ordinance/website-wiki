@@ -2,7 +2,6 @@ site_name: Project Ordinance Wiki
 site_description: Official knowledge base for Project Ordinance
 site_author: Project Ordinance
 site_url: https://wiki.project-ordinance.com
-edit_url: edit/main/docs
 copyright: "© Project Ordinance"
 
 theme:
