@@ -1,4 +1,4 @@
-# Deathmatch
+# Ordinance Deathmatch
 
 A gamemode inspired by the Black Mesa Deathmatch mode from the Black Mesa game.
 
