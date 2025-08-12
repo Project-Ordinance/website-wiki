@@ -138,7 +138,7 @@ Gamemasters design and run events, craft storylines, and coordinate with staff t
         <img class="po-avatar" src="https://cdn.discordapp.com/avatars/833012074812407848/71bb1379f1039e86fd9341a615ceba18.webp?size=128" alt="Cheeky avatar" />
         <div>
             <div class="po-name">Cheeky</div>
-            <div class="po-desc">Gamemaster designing events, scenarios, and interactive storylines.</div>
+            <div class="po-desc">A gamemaster who also has a very significant intrest in apples and propeller hats.</div>
         </div>
     </div>
 </div>
