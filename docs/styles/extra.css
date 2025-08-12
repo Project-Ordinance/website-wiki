@@ -70,6 +70,7 @@
   --po-role-mod: #42A5F5;         /* Server Moderator - light blue */
   --po-role-creative: #1E88E5;    /* Creative Director - blue */
   --po-role-gm: #1565C0;          /* Server Gamemaster - deep blue */
+  --po-role-media: #66BB6A;       /* Media Team - dark green */
 }
 
 [data-md-color-scheme="slate"] {
@@ -92,3 +93,4 @@
 .md-content h2#server-moderator { border-left-color: var(--po-role-mod); }
 .md-content h2#creative-director { border-left-color: var(--po-role-creative); }
 .md-content h2#server-gamemaster { border-left-color: var(--po-role-gm); }
+.md-content h2#media-team { border-left-color: var(--po-role-media); }

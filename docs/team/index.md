@@ -142,3 +142,26 @@ Gamemasters design and run events, craft storylines, and coordinate with staff t
         </div>
     </div>
 </div>
+
+## Media Team
+
+<p class="po-role-desc">
+The media team produces promotional content, maintains brand visuals, and supports documentation—trailers, screenshots, wiki content, and lore presentation.
+</p>
+
+<div class="po-role">
+    <div class="po-member">
+        <img class="po-avatar" src="../assets/avatar.svg" alt="CreekMando avatar" />
+        <div>
+            <div class="po-name">CreekMando</div>
+            <div class="po-desc">Currently tasked with populating portions of the wiki and developing more structured lore.</div>
+        </div>
+    </div>
+    <div class="po-member">
+        <img class="po-avatar" src="../assets/avatar.svg" alt="Kul avatar" />
+        <div>
+            <div class="po-name">Kul</div>
+            <div class="po-desc">Part of the media team; recently produced our <a href="https://www.youtube.com/watch?v=NZhnvHiR_mc" target="_blank">promotional YouTube video</a> showcasing the Survey Team department of the Science Team faction.</div>
+        </div>
+    </div>
+</div>
