@@ -6,8 +6,8 @@ copyright: "© Project Ordinance"
 
 theme:
   name: material
-  logo: assets/logo_white.ico
-  favicon: assets/logo_white.ico
+  logo: assets/logo_black.ico
+  favicon: assets/logo_black.ico
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
