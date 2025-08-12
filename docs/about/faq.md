@@ -3,8 +3,8 @@
 
 # FAQ
 
-## What is Project Ordinance?
-TBD.
+!!! question "What is Project Ordinance?" 
+    TBD.
 
 ## How can I contribute?
 TBD.
