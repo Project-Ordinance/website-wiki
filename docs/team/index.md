@@ -68,7 +68,7 @@ Administrators keep servers healthy and policies consistent. They handle escalat
 
 <div class="po-role">
     <div class="po-member">
-        <img class="po-avatar" src="../assets/avatar.svg" alt="Captain Johnny Sins avatar" />
+        <img class="po-avatar" src="../assets/CaptainJohnnySins.png" alt="Captain Johnny Sins avatar" />
         <div>
             <div class="po-name">Captain Johnny Sins</div>
             <div class="po-desc">Previously a gamemaster in Project Resonance, he transitioned to an administrator role for Project Ordinance.</div>
@@ -135,7 +135,7 @@ Gamemasters design and run events, craft storylines, and coordinate with staff t
 
 <div class="po-role">
     <div class="po-member">
-        <img class="po-avatar" src="https://cdn.discordapp.com/avatars/833012074812407848/71bb1379f1039e86fd9341a615ceba18.webp?size=128" alt="Cheeky avatar" />
+        <img class="po-avatar" src="../assets/Cheeky.png" alt="Cheeky avatar" />
         <div>
             <div class="po-name">Cheeky</div>
             <div class="po-desc">A gamemaster with a very significant interest in apples and propeller hats; Cheeky designs playful, thematic events and storylines and keeps sessions light‑hearted while coordinating with the team.</div>
