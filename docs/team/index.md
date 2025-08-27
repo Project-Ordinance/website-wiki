@@ -19,13 +19,6 @@ Owners set the overall direction of the project, align roadmap and priorities, a
             <div class="po-desc">Founder and project lead; oversees development, roadmap, and infrastructure. Riggs is the owner and key to the success of Ordinance, serving as the main programmer and only mapper. With at least 7 years of development experience, he is the backbone of the project.</div>
         </div>
     </div>
-    <div class="po-member">
-        <img class="po-avatar" src="https://cdn.discordapp.com/avatars/1267215813497192562/14c0475470221228f2e16fea3b494775.webp?size=128" alt="Dayflare avatar" />
-        <div>
-            <div class="po-name">Dayflare</div>
-            <div class="po-desc">Co-owner assisting with project image, planning, Trello, and roadmaps. Currently developing two new gamemodes, Ordinance Escape and Deathmatch, both set for release while the main server is in development. Additionally, Dayflare slightly works on the main server, contributing to its progress.</div>
-        </div>
-    </div>
 </div>
 
 ## Server Representative
