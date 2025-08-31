@@ -43,11 +43,11 @@ extra_css:
   - styles/extra.css
 extra_javascript:
   - javascripts/extra.js
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
 
 plugins:
   - search
   - macros
-  - mermaid2
 
 markdown_extensions:
   - admonition
