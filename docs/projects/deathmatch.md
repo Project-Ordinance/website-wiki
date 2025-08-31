@@ -1,4 +1,3 @@
-!!! note "Project Status" The main developer and concept artist of this project has been removed from Ordinance. Expect progress to be slow, or halted altoghether. Contact Riggs for more information relating to the development of this project.
 
 # Ordinance Deathmatch
 
