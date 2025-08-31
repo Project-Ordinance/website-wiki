@@ -84,3 +84,7 @@ nav:
     - Anti mass spectrometer: systems/ams.md
   - Maps:
     - Map Guide: maps/index.md
+  - Lore:
+    - Lore Overview: lore/index.md
+    - Important Events: lore/events.md
+    - Notable Figures: lore/figures.md
