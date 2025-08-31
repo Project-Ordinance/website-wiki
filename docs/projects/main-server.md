@@ -119,7 +119,7 @@ Below is a **card grid** overview. Use it like an index: click into each sector�
 
 ## Imagery & Captions
 
-![Lambda portal chamber, pre-activation.](assets/images/lambda_portal.png "Lambda Complex — Portal Room"){ align=right }
+![Lambda portal chamber, pre-activation.](../assets/images/lambda_portal.png "Lambda Complex — Portal Room"){ align=right }
 
 ---
 
