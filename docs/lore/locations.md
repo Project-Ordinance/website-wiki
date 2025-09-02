@@ -20,4 +20,4 @@ Black Mesa West also functions as the central administration center, being the o
 <img width="1440" height="288" alt="image" src="https://github.com/user-attachments/assets/9d8c99a5-5960-4d5c-a956-3fb4ac919100" />
 # Black Mesa East
 
-
+Black Mesa East, or just the Black Mesa Research Facility, needs no introduction. Constructed from dismantled nuclear silos in New Mexico, Black Mesa East represents the pride and joy of the Black Mesa Corporation. 
