@@ -1,4 +1,4 @@
-
+<img width="1440" height="288" alt="image" src="https://github.com/user-attachments/assets/075313d9-b79d-4344-8a39-c726b041a8c8" />
 ## Locations
 
 # Introduction
@@ -17,10 +17,14 @@ Due to the high-security nature of the other Black Mesa facilities, Black Mesa W
 
 Black Mesa West also functions as the central administration center, being the only company approved location where you can get an employee ID. Anyone who has ever worked at any Black Mesa Facility has seen this place, and likely was trained here as well. 
 
-??? warning "RESTRICTED CLEARANCE"
-    RESTRICTED.
-
 <img width="1440" height="288" alt="image" src="https://github.com/user-attachments/assets/9d8c99a5-5960-4d5c-a956-3fb4ac919100" />
 # Black Mesa East
 
-Black Mesa East, or just the Black Mesa Research Facility, needs no introduction. Constructed from dismantled nuclear silos in New Mexico, Black Mesa East represents the pride and joy of the Black Mesa Corporation. 
+Black Mesa East, or just the Black Mesa Research Facility, needs no introduction. Constructed from dismantled nuclear silos in New Mexico, Black Mesa East represents the pride and joy of the Black Mesa Corporation. The facility is gigantic, measuring around three square miles. The Black Mesa Research Facility consists of sectors A-G, and a total of nine areas. All other areas in the facility are classified and cannot be shared, or are either anomalous, unrealized, or theoretical. 
+
+It has been estimated that around 400 total staff work at Black Mesa East, with the majority being scientific and security staff. 
+
+<img width="1440" height="288" alt="image" src="https://github.com/user-attachments/assets/3650b969-9358-44eb-8970-9d65130d1f71" />
+# Black Mesa South
+
+This facility is the proverbial "beating heart" of the entire Black Mesa Corporation. Based in an undisclosed industrial facility in Tulsa, Oklahoma.
