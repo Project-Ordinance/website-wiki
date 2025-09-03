@@ -17,7 +17,7 @@ Due to the high-security nature of the other Black Mesa facilities, Black Mesa W
 
 Black Mesa West also functions as the central administration center, being the only company approved location where you can get an employee ID. Anyone who has ever worked at any Black Mesa Facility has seen this place, and likely was trained here as well. 
 
-??? warning "RESTRICTED CLEARANCE
+??? warning "RESTRICTED CLEARANCE"
     RESTRICTED.
 
 <img width="1440" height="288" alt="image" src="https://github.com/user-attachments/assets/9d8c99a5-5960-4d5c-a956-3fb4ac919100" />
