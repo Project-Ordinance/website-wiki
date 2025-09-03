@@ -1,4 +1,4 @@
-<img width="1440" height="288" alt="image" src="https://github.com/user-attachments/assets/075313d9-b79d-4344-8a39-c726b041a8c8" />
+
 ## Locations
 
 # Introduction
