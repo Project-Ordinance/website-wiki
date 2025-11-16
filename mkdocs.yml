@@ -96,8 +96,9 @@ nav:
     - Map Guide: maps/index.md
   - Lore:
     - Lore Overview: lore/index.md
+    - Universe Hub: lore/ic-information.md
     - Important Events: lore/events.md
     - Notable Figures: lore/figures.md
     - Locations: lore/locations.md
     - Black Mesa Branches: lore/bm-branches.md
-    - Universe Hub: lore/ic-information.md
+  
