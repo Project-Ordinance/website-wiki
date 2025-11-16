@@ -97,6 +97,7 @@ nav:
   - Lore:
     - Lore Overview: lore/index.md
     - Universe Hub: lore/ic-information.md
+    - Security Levels: /lore/security_levels.md
     - Important Events: lore/events.md
     - Notable Figures: lore/figures.md
     - Locations: lore/locations.md
