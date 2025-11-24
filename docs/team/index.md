@@ -19,6 +19,14 @@ Owners set the overall direction of the project, align roadmap and priorities, a
             <div class="po-desc">Founder and project lead; oversees development, roadmap, and infrastructure. Riggs is the owner and key to the success of Ordinance, serving as the main programmer and only mapper. With at least 7 years of development experience, he is the backbone of the project.</div>
         </div>
     </div>
+
+    <div class="po-member">
+        <img class="po-avatar" src="../assets/avatars/Default.svg" alt="Bubby avatar" />
+        <div>
+            <div class="po-name">Bubby</div>
+            <div class="po-desc">Co-owner and strategic advisor; supports high-level decisions and development oversight. Bubby joined Project Ordinance as a co-owner after the revival of the project, bringing extensive experience from various gaming communities. He plays a crucial role in guiding the project's direction and ensuring its growth.</div>
+        </div>
+    </div>
 </div>
 
 ## Administration
