@@ -87,6 +87,7 @@ nav:
     - The Main Server: projects/main-server.md
     - Escape: projects/escape.md
     - Deathmatch: projects/deathmatch.md
+    - rBMRP: projects/rbmrp.md
   - Characters:
     - Registry: characters/index.md
   - Systems:
