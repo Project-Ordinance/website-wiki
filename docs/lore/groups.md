@@ -1,8 +1,9 @@
-#Groups of Interest#
 
 #Federal Government Partnerships#
+Black Mesa is partnered with a variety of U.S Government organizations.
 
 ##Department of Energy##
+**Overview:** The Department of Energy is one of the primary regulating bodies for energy usage within the United States. The Department of Energy is one of Black Mesa's oldest partners, and the two organizations frequently work together on energy research projects. 
 
 ##DARPA (Defense Advanced Research Projects Agency)#
 
