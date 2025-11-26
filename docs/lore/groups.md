@@ -35,9 +35,13 @@
 
 #Academic Partnerships#
 
+##Wallace Breen Foundation##
+
 ##MIT##
 
 ##Stanford University##
+
+##University of Virginia##
 
 ##University of New Mexico##
 
@@ -56,6 +60,7 @@
 
 ##European Space Agency##
 
+##International Science Council##
 
 #Groups of Interest#
 
