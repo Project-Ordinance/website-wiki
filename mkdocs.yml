@@ -104,4 +104,5 @@ nav:
     - Notable Figures: lore/figures.md
     - Locations: lore/locations.md
     - Black Mesa Branches: lore/bm-branches.md
-  
+  - Guides:
+    - Black Mesa Content Setup: guides/bm-content-setup.md
