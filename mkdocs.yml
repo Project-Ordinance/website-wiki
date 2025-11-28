@@ -42,7 +42,6 @@ theme:
 extra_css:
   - styles/extra.css
 extra_javascript:
-  - javascripts/extra.js
   - https://unpkg.com/mermaid@10/dist/mermaid.min.js
 
 plugins:
@@ -96,7 +95,9 @@ nav:
     - The Main Server: projects/main-server.md
     - Escape: projects/escape.md
     - Deathmatch: projects/deathmatch.md
-    - rBMRP: projects/rbmrp.md
+    - rBMRP: 
+      - Overview: projects/rbmrp/index.md
+      - impulse framework: projects/rbmrp/impulse-framework.md
   - Systems:
     - Systems Overview: systems/index.md
     - Anti mass spectrometer: systems/ams.md
