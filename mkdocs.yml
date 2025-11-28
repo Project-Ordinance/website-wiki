@@ -80,21 +80,6 @@ nav:
     - Goals & Vision: about/vision.md
     - FAQ: about/faq.md
     - Changelog: changelog.md
-  - Team:
-    - Current Team: team/index.md
-  - Projects:
-    - Overview: projects/index.md
-    - The Main Server: projects/main-server.md
-    - Escape: projects/escape.md
-    - Deathmatch: projects/deathmatch.md
-    - rBMRP: projects/rbmrp.md
-  - Characters:
-    - Registry: characters/index.md
-  - Systems:
-    - Systems Overview: systems/index.md
-    - Anti mass spectrometer: systems/ams.md
-  - Maps:
-    - Map Guide: maps/index.md
   - Lore:
     - Lore Overview: lore/index.md
     - Universe Hub: lore/ic-information.md
@@ -104,5 +89,20 @@ nav:
     - Notable Figures: lore/figures.md
     - Locations: lore/locations.md
     - Black Mesa Branches: lore/bm-branches.md
+  - Characters:
+    - Registry: characters/index.md
+  - Projects:
+    - Overview: projects/index.md
+    - The Main Server: projects/main-server.md
+    - Escape: projects/escape.md
+    - Deathmatch: projects/deathmatch.md
+    - rBMRP: projects/rbmrp.md
+  - Systems:
+    - Systems Overview: systems/index.md
+    - Anti mass spectrometer: systems/ams.md
+  - Maps:
+    - Map Guide: maps/index.md
   - Guides:
     - Black Mesa Content Setup: guides/bm-content-setup.md
+  - Team:
+    - Current Team: team/index.md
