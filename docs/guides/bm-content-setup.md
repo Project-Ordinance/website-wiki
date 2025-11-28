@@ -58,9 +58,9 @@ Inside the `mountcfg` section of the `mount.cfg` file, add a new line referencin
 
 "mountcfg"
 {
-//  "cstrike"    "C:/steamcmd/steamapps/common/Counter-Strike Source/cstrike"
-//  "tf"         "C:/mytf2server/tf"
-    "bms"       "C:/Program Files (x86)/Steam/Steamapps/common/Black Mesa/bms"
+//  "cstrike"       "C:/steamcmd/steamapps/common/Counter-Strike Source/cstrike"
+//  "tf"            "C:/mytf2server/tf"
+    "bms"           "C:/Program Files (x86)/Steam/Steamapps/common/Black Mesa/bms"
 }
 
 ```
