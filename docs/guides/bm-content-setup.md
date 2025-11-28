@@ -1,4 +1,4 @@
-# Content Mounting Guide: Fixing Missing Textures
+# Black Mesa Content Setup
 
 Welcome to Project Ordinance! To ensure you experience our Black Mesa environments correctly, you must **mount** the files from the game *Black Mesa* (by Crowbar Collective) into your *Garry's Mod* installation.
 
@@ -40,3 +40,53 @@ For the Steam version, the content is usually located in the `bms` folder. A def
 Inside the `mountcfg` section of the `mount.cfg` file, add a new line referencing your installation path. Ensure the line is **not** commented out (no double slash `//` before it).
 
 **Example of the correctly formatted line to add:**
+
+```
+
+"bms" "C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Black Mesa\\bms"
+
+```
+
+**Example of the complete mount.cfg structure:**
+
+```
+
+//
+// Use this file to mount additional paths to the filesystem
+// DO NOT add a slash to the end of the filename
+//
+
+"mountcfg"
+{
+// "cstrike"&#9;"C:\\steamcmd\\steamapps\\common\\Counter-Strike Source Dedicated Server\\cstrike"
+// "tf"&#9;&#9;&#9;"C:\\mytf2server\\tf"
+"bms" "C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Black Mesa\\bms"
+}
+
+```
+
+Save and close the `mount.cfg` file.
+
+## How to Find Your File Path
+
+If your installation is not in the default location (e.g., on a separate hard drive or non-Windows system), use Steam to find the path:
+
+1. **Open Steam:** Go to your Steam Library.
+
+2. **Right-Click Black Mesa:** Right-click on the **Black Mesa** entry in your games list.
+
+3. **Select Properties:** Click on **Properties**.
+
+4. **Go to Installed Files:** Navigate to the **Installed Files** tab/section.
+
+5. **Click Browse:** Click the **Browse** button. This will open the file browser directly to the Black Mesa game folder.
+
+6. **Locate `bms`:** From this folder, navigate to the `bms` subfolder.
+
+7. **Copy Path:** Copy the full path from the file browser's address bar. This is the path you need to paste into your `mount.cfg` file.
+
+## Ending
+
+Once you have correctly edited and saved `mount.cfg`, **restart Garry's Mod completely.** Upon reloading, Black Mesa content should be successfully mounted, and you can join the server without missing textures or errors.
+
+If problems persist, please visit our **#support** channel on Discord.
