@@ -92,7 +92,7 @@ nav:
     - Registry: characters/index.md
   - Projects:
     - Overview: projects/index.md
-    - The Main Server: projects/main-server.md
+    - Main Server: projects/main-server.md
     - Escape: projects/escape.md
     - Deathmatch: projects/deathmatch.md
     - rBMRP: 
