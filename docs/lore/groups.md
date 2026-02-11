@@ -45,7 +45,7 @@ Boeing currently invests heavily in Black Mesa, and we are currently engaged in 
 The BlackRock corporation has been a trusted friend of Black Mesa for almost the entirety of it's history. Without the assistance of BlackRock, Black Mesa would have never been able to finance the construction of it's new sites. All other information about Black Mesa's partnership with BlackRock is strictly reserved for investors only.
 
 #Academic Partnerships#
-Black Mesa is partnered with many academic institutions and foundations/
+Black Mesa is partnered with many academic institutions and foundations.
 
 ##Wallace Breen Foundation##
 The Wallace Breen Foundation is an educational initiative to help create the researchers of tomorrow. Black Mesa supports the Wallace Breen Foundation's efforts to fund poor rural and urban schools within the United States, and donates frequently.
