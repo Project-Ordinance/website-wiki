@@ -42,50 +42,42 @@ Northtrop Grumman currently invests in Black Mesa, and has been selling and purc
 Boeing currently invests heavily in Black Mesa, and we are currently engaged in a deep partnership with them. The Boeing corporation allows Black Mesa to utilize their test runways and hangars, and Black Mesa supplies Boeing with a steady stock of monitoring equipment and loaned personnel. 
 
 ##BlackRock##
-
+The BlackRock corporation has been a trusted friend of Black Mesa for almost the entirety of it's history. Without the assistance of BlackRock, Black Mesa would have never been able to finance the construction of it's new sites. All other information about Black Mesa's partnership with BlackRock is strictly reserved for investors only.
 
 #Academic Partnerships#
+Black Mesa is partnered with many academic institutions and foundations/
 
 ##Wallace Breen Foundation##
+The Wallace Breen Foundation is an educational initiative to help create the researchers of tomorrow. Black Mesa supports the Wallace Breen Foundation's efforts to fund poor rural and urban schools within the United States, and donates frequently.
 
 ##MIT##
-
-##Stanford University##
-
-##University of Virginia##
-
-##University of New Mexico##
-
-##University of Chicago##
-
-##Oxford and Cambridge University##
-
+Black Mesa has an exclusive partnership with the Massachusetts Institute of Technology. For frequent funding and donations, the Massachusetts Institute of Technology allows Black Mesa to advertise job positions and directly recruit student researchers.
 
 #International Partnerships#
+Black Mesa is partnered with a variety of institutions and councils on the international stage.
 
 ##RIKEN Institute##
+The Black Mesa Corporation frequents purchases specialized equipment and trades research perosnnel with the RIKEN Institute. The RIKEN Institute is located in Japan, and has been a good friend of Black Mesa since it's creation.
 
 ##Canadian National Research Council##
-
-##Canadian CSIS##
-
-##European Space Agency##
+Canada, already being a close ally with the United States, has a strong friendship with Black Mesa. Frequently, Black Mesa and the Canadian Research Council deliberate over scientific discoveries and theories. In addition, the Canadian National Research Council advises Black Mesa for it's enviornmental projects often.
 
 ##International Science Council##
+The International Science Council oversees all of Black Mesa's international research efforts. From Black Mesa's very inception, the corporation has always strived to remain in the good graces of the council. As a result of Black Mesa's cooperation, the International Science Council considers Black Mesa an "official parter."
 
 #Groups of Interest#
+There are several groups of interest which are known to Black Mesa, while not exactly being partners or friends.
 
 ##CERN##
+Black Mesa and CERN widely regard eachother with respect. Though, Black Mesa is not a partner of CERN due to Black Mesa's strives to replicate their technology. Administrator Breen has publically stated his dislike toward CERN, and it's alleged "monopoly" on Science. 
 
 ##SinoTech State Physics Institute##
+The SinoTech State Physics Institute is not a friend of Black Mesa, and all past and current Black Mesa employees are advised not to respond to any mail or messages sent from university personnel. The main greivance between SinoTech and Black Mesa was the sabotage of one of Black Mesa's reactors. This case is still ongoing. In addition, the diplomatic strain between the People's Republic of China and the United States prohibits interaction with SinoTech.
 
 ##RosAtom##
+Due to the United State's diplomatic relationship with the Russian Federation, RosAtom personnel are strictly disallowed on any Black Mesa premesis.
 
-##Russian Academy of Sciences##
-
-##Arpreture Science##
-
-##Helios-Krieger##
-
+##Aperture Science##
+Aperture Science is a public competitor to Black Mesa, and thus all Aperture Science employees on Black Mesa property are required to be under supervision.
 
 
